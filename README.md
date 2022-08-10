@@ -17,7 +17,7 @@
 ## HTTP
 * [cors跨域简单请求和非简单请求](https://github.com/cheny88/Web--issue/issues/5)
 * [CDN优化](https://github.com/cheny88/Web--issue/issues/4)
-* [HTTP1.0、HTTP1.1和HTTP2.0的区别](https://github.com/cheny88/Web--issue/issues/2)
+* [HTTP1.0、HTTP1.1、HTTP2.0、HTTP3.0的区别](https://github.com/cheny88/Web--issue/issues/2)
 ## Webpack
 * [webpack打包原理、loader、plugin](https://github.com/cheny88/Web--issue/issues/3)
 ## JavaScript
