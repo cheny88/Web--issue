@@ -22,5 +22,7 @@
 * [webpack打包原理、loader、plugin](https://github.com/cheny88/Web--issue/issues/3)
 ## JavaScript
 * [js实现模糊搜索](https://github.com/cheny88/Web--issue/issues/1)
+* [js实现单选复选框联动效果](https://github.com/cheny88/Web--issue/issues/19)
+
 ## HTML
 * [addEventListener与onclick的区别](https://github.com/cheny88/Web--issue/issues/18)
