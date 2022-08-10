@@ -23,6 +23,7 @@
 ## JavaScript
 * [js实现模糊搜索](https://github.com/cheny88/Web--issue/issues/1)
 * [js实现单选复选框联动效果](https://github.com/cheny88/Web--issue/issues/19)
+* [== 和 === 的比较](https://github.com/cheny88/Web--issue/issues/20)
 
 ## HTML
 * [addEventListener与onclick的区别](https://github.com/cheny88/Web--issue/issues/18)
